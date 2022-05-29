@@ -1,0 +1,17 @@
+﻿  ex2.cpp
+c:\users\chikara\desktop\sample0\sample0\sample0\ex2.cpp(137): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+c:\users\chikara\desktop\sample0\sample0\sample0\ex2.cpp(146): warning C4244: '=': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+c:\users\chikara\desktop\sample0\sample0\sample0\ex2.cpp(147): warning C4244: '=': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+  Sample0.vcxproj -> C:\Users\chikara\Desktop\Sample0\Sample0\bin\Sample0.exe
